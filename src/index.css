@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+header text-center {
+  background-image:url(https://image.shutterstock.com/image-photo/writers-table-flat-lay-composition-260nw-1017732259.jpg);
+  background-color: aliceblue;
+}
